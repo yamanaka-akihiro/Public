@@ -1,5 +1,5 @@
 ;;;; -----------------  global ----------------- ;;;;
-(setq user-full-name "Yamanaka Akihiro")
+(setq user-full-name "Y")
 (global-display-line-numbers-mode)
 
 (require 'package)
